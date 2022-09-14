@@ -56,7 +56,7 @@ const Contact = () => {
         <div className="c-right">
           <p className="c-desc">
             <b>What’s your story?</b> Get in touch. Always available for
-            the right project.
+            the right project, Find me on social, connect with me through this form, or write directly.
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Name" name="user_name" />

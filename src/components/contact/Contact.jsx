@@ -49,7 +49,7 @@ const Contact = () => {
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
-              60, Fagbeyiro Abayomi Street, Alakuko, Lagos.
+              Lagos, Nigeria.
             </div>
           </div>
         </div>
